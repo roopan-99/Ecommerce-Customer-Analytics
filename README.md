@@ -1,1 +1,1 @@
-# ecommerce-customer-analytics
+# Ecommerce-customer-analytics
