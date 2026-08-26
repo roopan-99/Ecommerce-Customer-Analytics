@@ -1,0 +1,6 @@
+rows_before: 150450
+duplicates_removed: 450
+missing_customer_removed: 0
+returns_cancelled_removed: 3000
+invalid_price_removed: 0
+rows_after: 147000
