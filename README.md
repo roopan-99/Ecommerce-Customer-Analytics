@@ -23,7 +23,7 @@ Segmentation → Power BI Model → Interactive Dashboard**
 Executive view of key sales and customer KPIs, revenue trends, customer
 tiers and country performance.
 
-![]()
+![](https://github.com/roopan-99/Ecommerce-Customer-Analytics/blob/f7b3a264058cf1bc220dba670630c0c3dc1e9fab/dashboard/Screenshot%202026-09-01%20192426.png)
 
 
 ### 2. RFM Customer Segmentation Dashboard
