@@ -39,10 +39,16 @@ metrics.
 Geographic customer distribution, revenue/customer patterns and
 customer-profile analysis.
 
+![]()
+
+
 ### 4. Sales Performance & Analysis
 
 Country-level unit-price analysis, customer activity trends and
 supporting sales-performance visuals.
+
+![]()
+
 
 ## Key Metrics
 
