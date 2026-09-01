@@ -47,7 +47,7 @@ customer-profile analysis.
 Country-level unit-price analysis, customer activity trends and
 supporting sales-performance visuals.
 
-![]()
+![](https://github.com/roopan-99/Ecommerce-Customer-Analytics/blob/c5e55d34415d9361ad920023993ee9e2861d3444/dashboard/Screenshot%202026-09-01%20192647.png)
 
 
 ## Key Metrics
