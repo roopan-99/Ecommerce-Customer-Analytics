@@ -22,6 +22,8 @@ Segmentation → Power BI Model → Interactive Dashboard**
 
 Executive view of key sales and customer KPIs, revenue trends, customer
 tiers and country performance.
+![](https://github.com/roopan-99/IPL-Team-Player-Performance-Analysis/blob/3a613741dff0d19c61fe34af7a6538fd6dd19f4e/screenshorts/Screenshot%202026-08-02%20202452.png)
+
 
 ### 2. RFM Customer Segmentation Dashboard
 
