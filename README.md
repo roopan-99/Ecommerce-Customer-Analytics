@@ -32,6 +32,8 @@ Customer segmentation using **Recency, Frequency and Monetary**
 behaviour, with segment-level revenue, customer count and lifetime
 metrics.
 
+![](https://github.com/roopan-99/Ecommerce-Customer-Analytics/blob/451e1532a8b66631bf1572aab2870099857f0a0e/dashboard/Screenshot%202026-09-01%20192517.png)
+
 ### 3. Customers Insights & Geographic Analysis
 
 Geographic customer distribution, revenue/customer patterns and
