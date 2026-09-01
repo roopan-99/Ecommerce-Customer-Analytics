@@ -39,7 +39,7 @@ metrics.
 Geographic customer distribution, revenue/customer patterns and
 customer-profile analysis.
 
-![]()
+![](https://github.com/roopan-99/Ecommerce-Customer-Analytics/blob/fb0e1ddeb2a1e2a9dc4b05681a95c37fa5d35762/dashboard/Screenshot%202026-09-01%20192603.png)
 
 
 ### 4. Sales Performance & Analysis
