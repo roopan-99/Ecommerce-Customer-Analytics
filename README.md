@@ -1,6 +1,6 @@
 # E-Commerce Customer Analytics
 
-![Dashboard](https://github.com/roopan-99/Ecommerce-Customer-Analytics/blob/311a3b4fe3655f00f71c833317c6d7ccfe40cf57/dashboard/20260901-1408-44.2363845-compressed.mp4)
+![Dashboard](https://github.com/user-attachments/assets/a7a57104-a773-424c-b8ce-13ceddc056f8)
 
 > **Turning e-commerce transactions into customer, sales and RFM
 > insights with SQL, Python and Power BI.**
