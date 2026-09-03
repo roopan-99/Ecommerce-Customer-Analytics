@@ -1,8 +1,6 @@
 
 # E-Commerce Customer Analytics
 
-![](https://github.com/user-attachments/assets/a7a57104-a773-424c-b8ce-13ceddc056f8)
-
 > **Turning e-commerce transactions into customer, sales and RFM
 > insights with SQL, Python and Power BI.**
 
