@@ -1,5 +1,5 @@
 
-# E-Commerce Customer Analytic
+# E-Commerce Customer Analytics
 
 > **Turning e-commerce transactions into customer, sales and RFM
 > insights with SQL, Python and Power BI.**
