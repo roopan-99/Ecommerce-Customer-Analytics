@@ -4,7 +4,7 @@
 > **Turning e-commerce transactions into customer, sales and RFM
 > insights with SQL, Python and Power BI.**
 
-## Project Overview
+## Project Overview 
 
 An end-to-end analytics project focused on understanding **sales
 performance, customer behaviour, RFM segmentation, geographic patterns
